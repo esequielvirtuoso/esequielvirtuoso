@@ -9,15 +9,6 @@
 
 .tech {
   margin: 10px;
-  font-size: 10px;
-
-  li {
-    font-size: 10px;
-  }
-
-  ul {
-    font-size: 10px;
-  }
 }
 
 .user {
@@ -36,29 +27,9 @@
     flex-wrap: nowrap;
     font-size: 75px;
   }
-
-  li {
-    font-size: 10px;
-  }
-
-  ul {
-    font-size: 10px;
-  }
 }
 
 .user-details {
   text-align: center;
   margin: 5px auto;
-}
-
-.user-list {
-  font-size: 12px;
-}
-
-.user-list li{
-  font-size: 12px;
-}
-
-.user-list ul{
-  font-size: 12px;
 }
