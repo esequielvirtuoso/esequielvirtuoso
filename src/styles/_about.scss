@@ -18,12 +18,22 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  
   p {
     font-size: 16px;
   }
+  
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
     font-size: 75px;
+  }
+
+  ui {
+    font-size: 10px;
+  }
+
+  ul {
+    font-size: 10px;
   }
 }
 
