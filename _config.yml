@@ -1,6 +1,9 @@
 # Site settings
 title: Esequiel Virtuoso
 description: Esequiel Virtuoso Professional Profile
+favicon:
+  source: github-logo.png
+  path: /assets/img
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:5000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
